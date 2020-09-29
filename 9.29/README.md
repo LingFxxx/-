@@ -2,10 +2,12 @@
 ---
 ## 上午
 #### 完成粉笔  **常识**  102道
+ ![image](https://github.com/LingFxxx/-/blob/master/9.29/1.jpg)
 #### 从中选取错题8道
 ---
 ## 下午
 #### 完成粉笔  **法律**  45道
+![image](https://github.com/LingFxxx/-/blob/master/9.29/2.jpg)
 #### 从中选取错题8道
 ---
 ## 晚上
